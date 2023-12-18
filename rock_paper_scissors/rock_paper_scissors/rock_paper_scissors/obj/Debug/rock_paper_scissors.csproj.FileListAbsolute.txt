@@ -1,0 +1,63 @@
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\irina\source\repos\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
+E:\оно\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+E:\оно\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+E:\оно\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+E:\оно\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\mi\Downloads\rock_paper_scissors (1)\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\mi\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\irina\Downloads\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Form1.resources
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\mi\Desktop\rock_paper_scissors\rock_paper_scissors\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
